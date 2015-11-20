@@ -1,0 +1,9 @@
+application/index.html
+application/cache
+application/config
+application/core
+application/helpers
+application/hooks
+application/logs
+application/third_party
+
